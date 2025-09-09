@@ -1,4 +1,4 @@
-# Hi there 👋, I’m [Your Name]
+# Hi there 👋, I’m Suisa
 
 🎓 I’m a 17-year-old student at an HTL in Albania, currently in my 4th year, specializing in **Media Technology**.  
 💡 I’m passionate about **design**, **web & app development**, and **3D design** – always excited to combine creativity with technology.  
